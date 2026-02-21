@@ -22,7 +22,7 @@ If you are not familiar with this concepts, a diagram speaks a thousand words:
   and [Suitability Models](https://pro.arcgis.com/en/pro-app/latest/help/analysis/spatial-analyst/suitability-modeler/what-is-the-suitability-modeler.htm).
 - Leveraging Power BI to synthesize energy industry KPIs into intuitive visual narratives that drive data-informed decisions.
 
-![PowerBI example](DashLBA.png)
+![PowerBI example](DashEnergy.png)
 
 ## Final thoughts
 If you have made it this far, it means that your curiosity about these topics has driven you, and that is great! I hope you will explore the links I have shared. 
