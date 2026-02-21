@@ -20,7 +20,7 @@ If you are not familiar with this concepts, a diagram speaks a thousand words:
   [NDVI Index](https://pro.arcgis.com/en/pro-app/latest/arcpy/spatial-analyst/ndvi.htm),
   [Solar Energy Potential](https://pro.arcgis.com/en/pro-app/latest/tool-reference/spatial-analyst/modeling-solar-radiation.htm),
   and [Suitability Models](https://pro.arcgis.com/en/pro-app/latest/help/analysis/spatial-analyst/suitability-modeler/what-is-the-suitability-modeler.htm).
-  - Leveraging Power BI to synthesize energy industry KPIs into intuitive visual narratives that drive data-informed decisions.
+- Leveraging Power BI to synthesize energy industry KPIs into intuitive visual narratives that drive data-informed decisions.
 
 ![PowerBI example](DashLBA.png)
 
